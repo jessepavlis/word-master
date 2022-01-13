@@ -2069,6 +2069,7 @@ const words = {
   diene: true,
   diets: true,
   diffs: true,
+  diggy: true,
   dight: true,
   digit: true,
   diked: true,
